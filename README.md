@@ -17,6 +17,6 @@ I'm Rony Calderon, a student at Brigham Young University-Idaho interested in web
 
 ## Let's Connect!
 
-- Here is my [https://www.linkedin.com/in/rony-calderon/](https://www.linkedin.com/in/rony-calderon/)] profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/rony-calderon/) profile
 
 Please feel free to explore my repositories and don't hesitate to reach out to me. Happy coding! 🚀
